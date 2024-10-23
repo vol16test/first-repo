@@ -5,6 +5,7 @@ const Home = () => {
         <div className="flex justify-center items-center min-h-screen bg-gradient-to-br from-blue-100 to-indigo-200">
             <div className="max-w-2xl w-full bg-white rounded-xl shadow-2xl p-10 space-y-8">
                 <h1 className="text-5xl font-bold text-center text-cyan-700">Title</h1>
+                
                 <div className="space-y-6">
                     <p className="text-2xl text-gray-700 text-center">
                         軽い説明が入る軽い説明が入る軽い説明が入る
